@@ -1,0 +1,40 @@
+#Stations: ID, capacity
+[Stations]
+S1 2
+S2 5
+S3 4
+S4 9
+S5 9
+S6 2
+
+#Lines: ID, first station, second station, length, capacity
+[Lines]
+L1 S1 S3 9.66779 1
+L2 S1 S5 6.74698 2
+L3 S1 S6 7.52266 3
+L4 S2 S4 5.8859 3
+L5 S2 S5 5.10071 2
+L6 S2 S6 5.99862 4
+L7 S3 S4 5.69071 3
+L8 S3 S5 6.50031 1
+L9 S3 S6 7.11165 1
+L10 S5 S6 7.23664 4
+
+#Trains: ID, start station, velocity, capacity
+[Trains]
+T1 * 8.6479 22
+T2 * 5.11206 30
+T3 * 11.89859 24
+T4 S1 6.98647 27
+T5 S1 4.29988 28
+
+#Passengers: ID, start station, end station, groupsize, expected arrival time
+[Passengers]
+P1 S2 S5 5 1
+P2 S4 S3 7 1
+P3 S5 S3 2 1
+P4 S3 S6 5 1
+P5 S4 S2 16 1
+P6 S3 S1 11 2
+P7 S6 S1 11 1
+

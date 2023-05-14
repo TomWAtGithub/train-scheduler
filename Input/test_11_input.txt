@@ -1,0 +1,77 @@
+# Bahnhöfe: str(ID)
+[Stations]
+S1 2
+S2 2
+S3 2
+S4 2
+S5 2
+S6 2
+S7 2
+S8 2
+S9 2
+S10 2
+S11 2
+S12 2
+S13 2
+S14 2
+S15 2
+S16 2
+S17 2
+S18 2
+S19 2
+S20 2
+
+# Strecken: str(ID) str(Anfang) str(Ende) dec(Länge) int(Kapazität)
+[Lines]
+L1 S1 S2 5 1
+L2 S2 S3 5 1
+L3 S3 S4 5 1
+L4 S4 S5 5 1
+L5 S1 S6 5 1
+L6 S2 S7 5 1
+L7 S3 S8 5 1
+L8 S4 S9 5 1
+L9 S5 S10 5 1
+L10 S6 S7 5 1
+L11 S7 S8 5 1
+L12 S8 S9 5 1
+L13 S9 S10 5 1
+L14 S6 S11 5 1
+L15 S7 S12 5 1
+L16 S8 S13 5 1
+L17 S9 S14 5 1
+L18 S10 S15 5 1
+L19 S11 S12 5 1
+L20 S12 S13 5 1
+L21 S13 S14 5 1
+L22 S14 S15 5 1
+L23 S16 S11 5 1
+L24 S17 S12 5 1
+L25 S18 S13 5 1
+L26 S19 S14 5 1
+L27 S20 S15 5 1
+L28 S16 S17 5 1
+L29 S17 S18 5 1
+L30 S18 S19 5 1
+L31 S19 S20 5 1
+
+# Züge: str(ID) str(Startbahnhof)/* dec(Geschwindigkeit) int(Kapazität)
+[Trains]
+T1 S1 5 50
+T2 S8 5 50
+T3 S15 5 50
+T4 S16 5 50
+
+# Passagiere: str(ID) str(Startbahnhof) str(Zielbahnhof) int(Gruppengröße) int(Ankunftszeit)
+[Passengers]
+P1 S1 S10 50 10
+P2 S5 S11 50 10
+P3 S11 S20 50 10
+P4 S14 S17 50 10
+P5 S16 S8 50 10
+P6 S15 S1 50 10
+P7 S17 S5 50 10
+
+
+
+

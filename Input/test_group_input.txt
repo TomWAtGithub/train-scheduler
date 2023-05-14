@@ -1,0 +1,18 @@
+[Stations]
+S1 3
+S2 3
+
+[Lines]
+L1 S1 S2 4 2
+
+[Trains]
+T1 S1 2 7
+
+[Passengers]
+P1 S1 S2 3 5
+P2 S1 S2 3 5
+P3 S1 S2 7 15
+P4 S1 S2 1 22
+P5 S1 S2 5 22
+P6 S1 S2 6 30
+P7 S1 S2 2 40

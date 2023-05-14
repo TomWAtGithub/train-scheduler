@@ -1,0 +1,24 @@
+# Bahnhöfe: str(ID)
+[Stations]
+S1 1
+S2 1
+S3 1
+S4 1
+S5 1
+
+# Strecken: str(ID) str(Anfang) str(Ende) dec(Länge) int(Kapazität)
+[Lines]
+L1 S1 S2 4 2
+L2 S2 S5 30 2
+L3 S1 S3 100 2
+L4 S3 S4 4 2
+L5 S4 S5 4 2
+
+# Züge: str(ID) str(Startbahnhof)/* dec(Geschwindigkeit) int(Kapazität)
+[Trains]
+T1 S1 4 100
+
+
+# Passagiere: str(ID) str(Startbahnhof) str(Zielbahnhof) int(Gruppengröße) int(Ankunftszeit)
+[Passengers]
+P1 S1 S3 50 4
