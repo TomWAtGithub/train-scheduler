@@ -1,0 +1,14 @@
+[Train:T1]
+
+[Train:T2]
+1 Depart L2
+5 Depart L2
+10 Depart L2
+
+[Train:T3]
+5 Depart L3
+9 Depart L3
+
+[Passenger:P1]
+
+

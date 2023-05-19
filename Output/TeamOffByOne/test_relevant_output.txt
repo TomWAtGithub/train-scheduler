@@ -1,0 +1,38 @@
+[Train:T3]
+0 Start S1
+3 Depart L2
+6 Depart L4
+10 Depart L1
+
+[Train:T4]
+2 Depart L4
+6 Depart L2
+9 Depart L2
+
+[Train:T2]
+2 Depart L1
+7 Depart L3
+8 Depart L4
+
+[Train:T1]
+1 Depart L3
+4 Depart L3
+5 Depart L1
+
+[Passenger:P1]
+3 Board T1
+11 Detrain
+
+[Passenger:P2]
+1 Board T2
+6 Detrain
+
+[Passenger:P3]
+2 Board T1
+10 Detrain
+
+[Passenger:P4]
+2 Board T3
+9 Detrain
+
+
