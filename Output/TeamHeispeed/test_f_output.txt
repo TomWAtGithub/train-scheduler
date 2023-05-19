@@ -1,0 +1,538 @@
+[Train:T5]
+0 Start S1
+2 Depart L3
+8 Depart L7
+22 Depart L6
+31 Depart L5
+40 Depart L1
+46 Depart L3
+52 Depart L3
+58 Depart L3
+64 Depart L3
+70 Depart L1
+75 Depart L1
+80 Depart L1
+85 Depart L4
+90 Depart L2
+97 Depart L3
+103 Depart L3
+109 Depart L1
+114 Depart L4
+119 Depart L7
+125 Depart L7
+132 Depart L7
+138 Depart L7
+144 Depart L7
+150 Depart L7
+156 Depart L4
+161 Depart L1
+166 Depart L2
+172 Depart L4
+178 Depart L5
+
+[Train:T8]
+0 Start S2
+2 Depart L1
+5 Depart L1
+8 Depart L5
+11 Depart L5
+14 Depart L1
+18 Depart L3
+28 Depart L3
+31 Depart L1
+36 Depart L1
+42 Depart L1
+49 Depart L5
+52 Depart L5
+60 Depart L5
+63 Depart L5
+67 Depart L5
+70 Depart L6
+73 Depart L6
+76 Depart L5
+79 Depart L5
+82 Depart L8
+90 Depart L8
+95 Depart L5
+102 Depart L5
+105 Depart L8
+109 Depart L3
+113 Depart L1
+116 Depart L1
+119 Depart L1
+123 Depart L1
+127 Depart L3
+131 Depart L3
+134 Depart L3
+139 Depart L3
+142 Depart L1
+148 Depart L5
+152 Depart L8
+156 Depart L7
+159 Depart L7
+164 Depart L7
+168 Depart L4
+171 Depart L1
+174 Depart L2
+177 Depart L2
+180 Depart L1
+
+[Train:T10]
+0 Start S3
+6 Depart L2
+10 Depart L3
+17 Depart L7
+36 Depart L6
+40 Depart L6
+63 Depart L6
+67 Depart L8
+95 Depart L3
+102 Depart L1
+108 Depart L5
+111 Depart L5
+114 Depart L5
+117 Depart L5
+120 Depart L5
+125 Depart L5
+130 Depart L1
+135 Depart L1
+144 Depart L4
+147 Depart L4
+150 Depart L1
+153 Depart L1
+157 Depart L1
+160 Depart L2
+163 Depart L2
+168 Depart L3
+175 Depart L3
+178 Depart L3
+
+[Passenger:P1]
+1 Board T1
+8 Detrain
+
+[Passenger:P9]
+1 Board T2
+5 Detrain
+
+[Passenger:P7]
+1 Board T3
+11 Detrain
+
+[Passenger:P2]
+1 Board T4
+13 Detrain
+
+[Passenger:P31]
+1 Board T5
+29 Detrain
+
+[Passenger:P13]
+1 Board T6
+7 Detrain
+
+[Passenger:P16]
+1 Board T7
+79 Detrain
+
+[Passenger:P14]
+1 Board T8
+21 Detrain
+
+[Passenger:P36]
+1 Board T9
+20 Detrain
+
+[Passenger:P5]
+1 Board T10
+9 Detrain
+
+[Train:T4]
+2 Depart L5
+5 Depart L8
+9 Depart L3
+14 Depart L1
+24 Depart L1
+29 Depart L3
+34 Depart L3
+39 Depart L1
+44 Depart L1
+48 Depart L1
+55 Depart L1
+59 Depart L2
+65 Depart L7
+70 Depart L3
+74 Depart L3
+78 Depart L3
+84 Depart L1
+90 Depart L1
+94 Depart L1
+98 Depart L1
+104 Depart L1
+111 Depart L1
+115 Depart L1
+120 Depart L4
+123 Depart L7
+127 Depart L7
+131 Depart L4
+137 Depart L1
+141 Depart L1
+146 Depart L1
+150 Depart L1
+154 Depart L5
+158 Depart L5
+163 Depart L4
+166 Depart L4
+169 Depart L1
+173 Depart L1
+177 Depart L1
+181 Depart L3
+
+[Train:T2]
+2 Depart L3
+7 Depart L1
+10 Depart L4
+16 Depart L6
+22 Depart L5
+27 Depart L1
+31 Depart L3
+34 Depart L3
+37 Depart L1
+40 Depart L5
+44 Depart L5
+47 Depart L1
+52 Depart L2
+56 Depart L4
+62 Depart L1
+65 Depart L2
+70 Depart L7
+74 Depart L3
+78 Depart L1
+82 Depart L4
+85 Depart L2
+89 Depart L1
+92 Depart L1
+95 Depart L3
+98 Depart L8
+102 Depart L6
+107 Depart L7
+111 Depart L3
+114 Depart L1
+118 Depart L1
+121 Depart L1
+124 Depart L4
+127 Depart L4
+130 Depart L5
+134 Depart L5
+137 Depart L4
+141 Depart L7
+145 Depart L3
+148 Depart L3
+151 Depart L3
+155 Depart L3
+158 Depart L8
+178 Depart L6
+
+[Train:T3]
+2 Depart L1
+5 Depart L5
+8 Depart L8
+21 Depart L3
+25 Depart L1
+31 Depart L4
+38 Depart L2
+43 Depart L3
+46 Depart L3
+49 Depart L1
+52 Depart L1
+56 Depart L3
+59 Depart L3
+62 Depart L1
+65 Depart L1
+68 Depart L1
+73 Depart L4
+77 Depart L7
+81 Depart L3
+84 Depart L1
+87 Depart L1
+90 Depart L3
+96 Depart L7
+99 Depart L4
+102 Depart L1
+105 Depart L1
+108 Depart L1
+111 Depart L2
+114 Depart L2
+117 Depart L2
+120 Depart L7
+123 Depart L3
+126 Depart L3
+129 Depart L3
+132 Depart L1
+135 Depart L1
+139 Depart L3
+143 Depart L3
+146 Depart L3
+149 Depart L3
+152 Depart L1
+155 Depart L1
+158 Depart L3
+161 Depart L7
+164 Depart L7
+170 Depart L3
+173 Depart L3
+177 Depart L7
+180 Depart L4
+
+[Train:T1]
+3 Depart L4
+16 Depart L1
+22 Depart L3
+64 Depart L3
+70 Depart L1
+77 Depart L4
+82 Depart L6
+90 Depart L5
+96 Depart L1
+101 Depart L3
+107 Depart L7
+113 Depart L7
+120 Depart L3
+126 Depart L1
+133 Depart L4
+138 Depart L2
+144 Depart L2
+150 Depart L7
+156 Depart L3
+162 Depart L3
+168 Depart L7
+174 Depart L7
+181 Depart L3
+
+[Train:T9]
+3 Depart L2
+8 Depart L4
+11 Depart L1
+17 Depart L1
+22 Depart L1
+25 Depart L2
+30 Depart L2
+34 Depart L1
+39 Depart L4
+52 Depart L6
+55 Depart L5
+60 Depart L1
+64 Depart L1
+70 Depart L5
+73 Depart L8
+76 Depart L8
+79 Depart L8
+95 Depart L8
+98 Depart L5
+105 Depart L5
+108 Depart L6
+111 Depart L6
+114 Depart L6
+117 Depart L6
+120 Depart L6
+125 Depart L6
+130 Depart L8
+133 Depart L3
+137 Depart L1
+141 Depart L4
+144 Depart L7
+147 Depart L3
+150 Depart L3
+154 Depart L3
+157 Depart L2
+160 Depart L4
+166 Depart L1
+170 Depart L3
+173 Depart L3
+176 Depart L3
+180 Depart L7
+
+[Train:T6]
+4 Depart L1
+12 Depart L1
+33 Depart L1
+36 Depart L3
+42 Depart L3
+45 Depart L1
+51 Depart L1
+54 Depart L3
+57 Depart L3
+60 Depart L1
+63 Depart L4
+102 Depart L7
+135 Depart L8
+148 Depart L6
+152 Depart L2
+155 Depart L1
+158 Depart L1
+161 Depart L1
+166 Depart L1
+169 Depart L1
+173 Depart L1
+176 Depart L1
+179 Depart L1
+182 Depart L1
+
+[Passenger:P39]
+6 Board T2
+20 Detrain
+
+[Passenger:P40]
+8 Board T6
+15 Detrain
+
+[Passenger:P18]
+9 Board T1
+28 Detrain
+
+[Train:T7]
+11 Depart L8
+16 Depart L8
+31 Depart L8
+36 Depart L8
+44 Depart L8
+49 Depart L8
+55 Depart L8
+60 Depart L8
+69 Depart L3
+74 Depart L1
+80 Depart L1
+86 Depart L1
+91 Depart L4
+95 Depart L7
+100 Depart L7
+105 Depart L2
+110 Depart L3
+115 Depart L3
+120 Depart L1
+126 Depart L1
+131 Depart L2
+136 Depart L7
+141 Depart L3
+146 Depart L1
+152 Depart L4
+156 Depart L7
+161 Depart L3
+166 Depart L3
+172 Depart L7
+177 Depart L4
+181 Depart L1
+
+[Passenger:P20]
+12 Board T3
+28 Detrain
+
+[Passenger:P24]
+13 Board T10
+123 Detrain
+
+[Passenger:P22]
+16 Board T6
+39 Detrain
+
+[Passenger:P25]
+18 Board T4
+33 Detrain
+
+[Passenger:P3]
+21 Board T2
+30 Detrain
+
+[Passenger:P26]
+21 Board T9
+128 Detrain
+
+[Passenger:P35]
+22 Board T8
+93 Detrain
+
+[Passenger:P37]
+29 Board T1
+75 Detrain
+
+[Passenger:P28]
+29 Board T3
+34 Detrain
+
+[Passenger:P4]
+30 Board T5
+36 Detrain
+
+[Passenger:P8]
+35 Board T3
+41 Detrain
+
+[Passenger:P33]
+37 Board T5
+45 Detrain
+
+[Passenger:P6]
+43 Board T2
+50 Detrain
+
+[Passenger:P11]
+55 Board T2
+59 Detrain
+
+[Passenger:P17]
+63 Board T4
+69 Detrain
+
+[Passenger:P27]
+66 Board T6
+138 Detrain
+
+[Passenger:P30]
+68 Board T2
+73 Detrain
+
+[Passenger:P38]
+76 Board T3
+80 Detrain
+
+[Passenger:P10]
+89 Board T1
+95 Detrain
+
+[Passenger:P12]
+94 Board T8
+108 Detrain
+
+[Passenger:P15]
+101 Board T2
+106 Detrain
+
+[Passenger:P19]
+124 Board T10
+133 Detrain
+
+[Passenger:P21]
+129 Board T9
+136 Detrain
+
+[Passenger:P23]
+133 Board T2
+140 Detrain
+
+[Passenger:P29]
+139 Board T6
+151 Detrain
+
+[Passenger:P32]
+151 Board T8
+155 Detrain
+
+[Passenger:P34]
+157 Board T4
+161 Detrain
+
+[Passenger:P41]
+161 Board T2
+182 Detrain
+
+
