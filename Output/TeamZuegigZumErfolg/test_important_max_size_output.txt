@@ -1,0 +1,109 @@
+[Train:T1]
+24 Depart L13
+27 Depart L5
+29 Depart L7
+30 Depart L11
+41 Depart L11
+42 Depart L10
+
+[Train:T2]
+
+
+[Train:T3]
+0 Start S3
+2 Depart L4
+5 Depart L4
+8 Depart L19
+11 Depart L11
+13 Depart L11
+14 Depart L7
+15 Depart L5
+18 Depart L8
+21 Depart L19
+24 Depart L10
+26 Depart L10
+27 Depart L18
+30 Depart L18
+32 Depart L7
+34 Depart L7
+35 Depart L20
+36 Depart L12
+38 Depart L12
+39 Depart L20
+40 Depart L10
+42 Depart L10
+43 Depart L19
+
+[Train:T4]
+
+
+[Train:T5]
+2 Depart L7
+3 Depart L5
+5 Depart L5
+6 Depart L7
+7 Depart L11
+11 Depart L2
+28 Depart L1
+
+[Train:T6]
+2 Depart L14
+3 Depart L5
+4 Depart L7
+5 Depart L20
+35 Depart L4
+45 Depart L4
+
+[Train:T7]
+
+
+[Train:T8]
+
+
+[Train:T9]
+
+
+[Train:T10]
+36 Depart L12
+38 Depart L12
+
+[Passenger:P1]
+1 Board T3
+4 Detrain
+
+[Passenger:P2]
+4 Board T5
+8 Detrain
+
+[Passenger:P3]
+29 Board T3
+33 Detrain
+
+[Passenger:P4]
+1 Board T5
+4 Detrain
+
+[Passenger:P5]
+1 Board T6
+6 Detrain
+
+[Passenger:P6]
+37 Board T3
+41 Detrain
+
+[Passenger:P7]
+41 Board T3
+46 Detrain
+
+[Passenger:P8]
+12 Board T3
+17 Detrain
+
+[Passenger:P9]
+40 Board T1
+43 Detrain
+
+[Passenger:P10]
+20 Board T3
+25 Detrain
+

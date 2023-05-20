@@ -1,0 +1,219 @@
+[Train:T1]
+0 Start S11
+2 Depart L11
+5 Depart L48
+8 Depart L56
+12 Depart L95
+
+[Train:T2]
+0 Start S17
+2 Depart L29
+5 Depart L13
+6 Depart L12
+10 Depart L12
+11 Depart L80
+
+[Train:T3]
+0 Start S18
+2 Depart L3
+4 Depart L6
+6 Depart L70
+7 Depart L21
+
+[Train:T4]
+0 Start S3
+2 Depart L43
+4 Depart L40
+5 Depart L24
+7 Depart L75
+8 Depart L74
+
+[Train:T5]
+0 Start S3
+2 Depart L49
+4 Depart L74
+5 Depart L7
+7 Depart L9
+8 Depart L86
+
+[Train:T6]
+0 Start S2
+2 Depart L41
+4 Depart L32
+6 Depart L26
+7 Depart L12
+
+[Train:T7]
+2 Depart L90
+4 Depart L9
+5 Depart L8
+7 Depart L45
+9 Depart L43
+10 Depart L5
+
+[Train:T8]
+2 Depart L75
+3 Depart L7
+5 Depart L9
+6 Depart L87
+8 Depart L12
+9 Depart L80
+12 Depart L8
+
+[Train:T9]
+2 Depart L10
+5 Depart L4
+8 Depart L77
+10 Depart L74
+
+[Train:T10]
+2 Depart L38
+4 Depart L38
+6 Depart L77
+8 Depart L77
+10 Depart L22
+11 Depart L19
+
+[Train:T11]
+2 Depart L50
+4 Depart L54
+6 Depart L7
+7 Depart L3
+9 Depart L70
+10 Depart L68
+
+[Train:T12]
+2 Depart L30
+5 Depart L30
+8 Depart L93
+10 Depart L10
+12 Depart L3
+
+[Passenger:P1]
+3 Board T7
+6 Detrain
+
+[Passenger:P2]
+7 Board T9
+12 Detrain
+
+[Passenger:P3]
+7 Board T8
+11 Detrain
+
+[Passenger:P4]
+3 Board T7
+6 Detrain
+
+[Passenger:P5]
+5 Board T3
+9 Detrain
+
+[Passenger:P6]
+1 Board T6
+3 Detrain
+
+[Passenger:P7]
+4 Board T8
+7 Detrain
+
+[Passenger:P8]
+6 Board T4
+9 Detrain
+
+[Passenger:P9]
+1 Board T5
+3 Detrain
+
+[Passenger:P10]
+5 Board T11
+8 Detrain
+
+[Passenger:P11]
+6 Board T5
+9 Detrain
+
+[Passenger:P12]
+1 Board T4
+3 Detrain
+
+[Passenger:P13]
+5 Board T6
+8 Detrain
+
+[Passenger:P14]
+8 Board T11
+11 Detrain
+
+[Passenger:P15]
+4 Board T2
+7 Detrain
+
+[Passenger:P16]
+7 Board T1
+11 Detrain
+
+[Passenger:P17]
+1 Board T3
+3 Detrain
+
+[Passenger:P18]
+9 Board T12
+13 Detrain
+
+[Passenger:P19]
+11 Board T1
+15 Detrain
+
+[Passenger:P20]
+1 Board T2
+4 Detrain
+
+[Passenger:P21]
+1 Board T11
+3 Detrain
+
+[Passenger:P22]
+1 Board T1
+4 Detrain
+
+[Passenger:P23]
+3 Board T5
+6 Detrain
+
+[Passenger:P24]
+3 Board T10
+5 Detrain
+
+[Passenger:P25]
+8 Board T7
+11 Detrain
+
+[Passenger:P26]
+3 Board T11
+5 Detrain
+
+[Passenger:P27]
+5 Board T10
+7 Detrain
+
+[Passenger:P28]
+9 Board T2
+13 Detrain
+
+[Passenger:P29]
+3 Board T3
+5 Detrain
+
+[Passenger:P30]
+9 Board T10
+12 Detrain
+
+[Passenger:P31]
+4 Board T9
+7 Detrain
+
+[Passenger:P32]
+4 Board T12
+7 Detrain
+

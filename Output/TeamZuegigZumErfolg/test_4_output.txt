@@ -1,0 +1,9 @@
+[Train:T1]
+2 Depart L3
+6 Depart L4
+7 Depart L5
+
+[Passenger:P1]
+1 Board T1
+8 Detrain
+
