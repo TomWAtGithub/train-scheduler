@@ -21,7 +21,10 @@ If you want to execute the code on input files do the following:
 - place your .txt-files in the folder `Input` and make sure to add the suffix `input` to your input-files (for example: `test1_input.txt`)
 - open `main.ipynb`
   - overwrite the attribute `notebook_name` at the top of the code - this will be the name of the folder in which the output files are created
+  - Select if you want to execute specific input files or all input files in Section _Pre-Execution Settings_ at the Start of `main.ipynb`
   - select `Cell - Run All`
 - the output files can be found in the folder `Output/<notebook_name>`
   - for each input file in the folder `Input` one output file is created, where the suffix `input` is replaced by the suffix `output` (for example: `test1_output.txt`)
-
+- to compare the results execute `update_result_comparisonipynb`
+  - this will update the file `Results.csv` with all results from the `Output` directory
+  - open the file `Results.xlsx` if you want to visualize your results in an Excel file
